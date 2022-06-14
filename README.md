@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JuaniCarre
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JS, HTML and CSS
+- 💞️ I’m looking to collaborate on any project that i can bring value to.
+- 📫 Feel free to contact me if you think i can help with your project via mail: juanicarrenio@gmail.com, or Linkedin: www.linkedin.com/in/juan-ignacio-carreño.
