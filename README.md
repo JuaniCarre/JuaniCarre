@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio Carreno</h1>
-<h3 align="center">A passionate full stack web developer from Argentina</h3>
+<h3 align="center">A passionate full stack backend focused web developer from Argentina</h3>
 
 - 🔭 I’m currently working on [The Simpsons API](https://github.com/JuaniCarre/SimpsonsApi)
 
