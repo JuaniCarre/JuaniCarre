@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio Carreno</h1>
 <h3 align="center">A passionate full stack backend focused web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [The Simpsons API](https://github.com/JuaniCarre/SimpsonsApi)
+- 🔭 I’m currently looking for a job.
 
 - 📫 How to reach me **juanicarrenio@gmail.com**
 
+- 💼 [Portfolio](https://juanicarre.github.io)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juani_akakratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juani_akakratos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juani-carre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan ignacio carreño" height="30" width="40" /></a>
 </p>
 
